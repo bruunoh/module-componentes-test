@@ -1,2 +1,3 @@
 rootProject.name = "Module Componentes Test"
 include ':app'
+include ':componentes'
