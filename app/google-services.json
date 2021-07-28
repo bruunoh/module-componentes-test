@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863409720748",
+    "project_id": "module-componentes-test",
+    "storage_bucket": "module-componentes-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863409720748:android:df19bc918a6958f9d23e09",
+        "android_client_info": {
+          "package_name": "br.com.cardoso.bruno.modulecomponentestest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863409720748-eba65c99v6q6jk1umv7cqmm8m9b55a3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2QH_5UJbgqiD5ieqMvJnc6uBUDR7UiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863409720748-eba65c99v6q6jk1umv7cqmm8m9b55a3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
